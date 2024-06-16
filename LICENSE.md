@@ -6,4 +6,6 @@ Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4
 
 ## Restrictions
 
-#### You can
+### You can:
+
+* **Share** — copy and redistribute the material in any medium or format

@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug of any size.
 title: A brief description of the bug goes here.
-labels: ''
+labels: all bugs
 assignees: GloriousGlider8
 
 ---

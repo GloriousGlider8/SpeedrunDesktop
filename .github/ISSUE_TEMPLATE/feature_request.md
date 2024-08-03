@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: A brief description of the feature goes here.
-labels: ''
+labels: all requests
 assignees: GloriousGlider8
 
 ---

@@ -19,5 +19,8 @@ What you expected to happen goes here.
 **Screenshots**
 If you can, upload screenshots to the issue.
 
+**Please add one of the following tags to your request:**
+any tag starting with `bug:`
+
 **Debug Info**
 Do not mess with this. It is filled automatically.
